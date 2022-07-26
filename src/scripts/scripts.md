@@ -1,3 +1,3 @@
 ## Scripts Table of Contents
 
-- [duplicate file checker](./scripts/duplicates.md)
+- [duplicate file checker](./duplicates.md)
