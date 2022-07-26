@@ -1,6 +1,19 @@
 [book]
+title = "NawMan's Purple Team Toolkit"
+description = "This book is a coolection of red, blue, purple, malware and anything cyber information."
 authors = ["Joshua Nauman"]
 language = "en"
 multilingual = false
 src = "src"
-title = "naw-man-purple"
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+
+[output.html.redirect]
+"/format/config.html" = "configuration/index.html"
+
