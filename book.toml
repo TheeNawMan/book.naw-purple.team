@@ -1,0 +1,6 @@
+[book]
+authors = ["Joshua Nauman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "naw-man-purple"
