@@ -2,23 +2,26 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## About Me
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 whoami, resume, current focus](about-me/whoami-resume-current-focus/README.md)
+  * [whoami](about-me/whoami-resume-current-focus/whoami.md)
+  * [Resume](about-me/whoami-resume-current-focus/resume.md)
+  * [Current Focus](about-me/whoami-resume-current-focus/current-focus.md)
 
-## Team
+## Red Team
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [🔴 Overview](red-team/overview.md)
+
+## Blue Team
+
+* [🔵 Overview](blue-team/overview.md)
+
+## Purple Team
+
+* [🟣 Overview](purple-team/overview.md)
 
 ## Collaborating
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
+* [🤝 How we can Work Together](collaborating/how-we-can-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
